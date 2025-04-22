@@ -15,8 +15,6 @@ Yandex Password Generator by SelfCode — это современное и ст�
 Генерация уникальных паролей без повторений 🚀
 Стильный и современный интерфейс с эмодзи 😎
 Копирование пароля в буфер обмена одним кликом 📋
-Фиксированный размер окна для удобства (450x500 пикселей) 🖥️
-Запрет на максимизацию окна для сохранения эстетики 🔲
 Поддержка русского языка 🇷🇺
 Информация о разработчике с красивыми ссылками ℹ️
 
@@ -51,8 +49,6 @@ intuitive design, and one-click password copying to the clipboard 📋, it makes
 Generates unique passwords with no duplicates 🚀
 Stylish and modern interface with emojis 😎
 One-click password copying to the clipboard 📋
-Fixed window size for convenience (450x500 pixels) 🖥️
-Non-maximizable window to maintain aesthetics 🔲
 Russian language support 🇷🇺
 Developer info with beautifully styled links ℹ️
 

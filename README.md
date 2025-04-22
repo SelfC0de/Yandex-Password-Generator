@@ -1,6 +1,6 @@
 # Yandex-Password-Generator
 
-Yandex Password Generator
+Yandex Password Generator [UnOfficial]
 
 ![image](https://github.com/user-attachments/assets/e66954b1-e951-4ced-9a97-6179f1f0be75)
 
